@@ -1,6 +1,6 @@
 ### Ensemble Docking
 
-** Key Word : ensemble docking, machine-learning, k nearest neighbor, logisti regression, support vector machine, random forest, protein kinases
+**Key Word : ensemble docking, machine-learning, k nearest neighbor, logisti regression, support vector machine, random forest, protein kinases**
 
 ## Term Definition :
 * Decoy :  Decoys are molecules that are presumed to be inactive against a target.
